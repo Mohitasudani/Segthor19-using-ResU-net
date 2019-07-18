@@ -20,8 +20,8 @@ DATA VISUALIZATION:
 
 
 
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Train" alt="Dataset for training"></a>
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Test" alt="Data obtained by testing">
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Dataset for training" alt="Dataset for training"> <h2> Dataset for training </h2>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Data obtained by testing" alt="Data obtained by testing"> <h2> Data obtained by testing </h2>
 
 
 
