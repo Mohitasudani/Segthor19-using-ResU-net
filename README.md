@@ -20,8 +20,8 @@ GPU used : NVIDIA® DGX-1™ (8 gpu)
 
 
 
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Dataset for training" alt="Dataset for training"> <h3> Dataset for training </h3>
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Data obtained by testing" alt="Data obtained by testing"> <h3> Data obtained by testing </h3>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Dataset for training" alt="Dataset for training" height="80%" width="80%"> <h3> Dataset for training </h3>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Data obtained by testing" alt="Data obtained by testing" height="80%" width="80%"> <h3> Data obtained by testing </h3>
 
 
 <br><br>
