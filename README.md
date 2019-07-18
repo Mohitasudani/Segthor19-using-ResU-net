@@ -10,7 +10,7 @@ email: m.asudani@iiitmanipur.ac.in
 Tookit need Python 3, pytorch >= 1.0.1, fastai version 1.x.
 
 The data path organized like: 
-./dataset/train/Patient_01/GT.nii 
+./dataset/train/Patient_01/GT.nii <br>
 ./dataset/train/Patient_01/Patient_01.nii
 
 GPU used : NVIDIA® DGX-1™ (8 gpu)
