@@ -18,7 +18,11 @@ GPU used : NVIDIA® DGX-1™ (8 gpu)
      
 DATA VISUALIZATION:
 
+
+
 <img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Train" alt="Dataset for training"></a>
-<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Test" alt="Data obtained by testing"></a>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Test" alt="Data obtained by testing">
+
+
 
 Please don't hesitate to contact me if you have any question about the data, method, or code !
