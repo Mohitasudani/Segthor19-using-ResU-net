@@ -16,13 +16,13 @@ The data path organized like:
 GPU used : NVIDIA® DGX-1™ (8 gpu)
            COLAB GPU
      
-DATA VISUALIZATION:
+<h2>DATA VISUALIZATION:</h2>
 
 
 
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Dataset for training" alt="Dataset for training"> <h2> Dataset for training </h2>
-<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Data obtained by testing" alt="Data obtained by testing"> <h2> Data obtained by testing </h2>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy.gif" title="Dataset for training" alt="Dataset for training"> <h3> Dataset for training </h3>
+<img src="https://github.com/Mohitasudani/Segthor19-using-ResU-net/blob/master/giphy_test.gif" title="Data obtained by testing" alt="Data obtained by testing"> <h3> Data obtained by testing </h3>
 
 
-
+<br><br>
 Please don't hesitate to contact me if you have any question about the data, method, or code !
