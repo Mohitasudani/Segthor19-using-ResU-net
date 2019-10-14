@@ -4,9 +4,9 @@ The recent advances in the field of computer vision has led to the wide use of C
 ##### For full demo of this project
 YouTube video link -- https://youtu.be/jOHFZobAvwc
 
-author: Mohit Asudani (IIIT MANIPUR)
+author: Mohit Asudani
 
-Institution: Bennett University
+Institution: Indian Institute of Information Technology, Manipur
 
 email: m.asudani@iiitmanipur.ac.in
 
